@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Abhishek Govind</h1>
 <p align="center">
   <img src="https://img.freepik.com/free-photo/cartoon-man-wearing-glasses_23-2151136848.jpg?t=st=1713347661~exp=1713351261~hmac=e4c57af20fc91c76db4d8c868ea2f23b1906374a512ee9b9cd3f6c0eb636f308&w=996" alt="MasterHead" width="800">
 </p>
@@ -12,7 +12,7 @@
 I'm a third-year student passionate about Full-Stack Development , Artificial Intelligence, and  Machine Learning. I enjoy building projects step by step, finding happiness in each small achievement along the way. From planning to deployment, I'm involved in every stage of development. Now, I'm eager to apply my skills in a professional setting and continue learning. If you're interested in having me join your team, feel free to reach out!
 
 <br/>
-<h1 align="center">Hi 👋, I'm Abhishek Govind</h1>
+
 <h3 align="center">"Code is the language of innovation, and developers are the translators, turning ideas into reality."</h3>
 <img align ="right" alt = "Coding" width = "500" src="https://64.media.tumblr.com/d2b59d444dd1b200821279ae09641449/be7eabd93f3453b0-73/s640x960/943acafbe4db28bc91566ef8a050bab78d01376c.gif">
 
@@ -44,5 +44,9 @@ I'm a third-year student passionate about Full-Stack Development , Artificial In
 
 ## Activity On GitHub
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demader&&theme=dark&hide_border=false&stroke=f53b3b" alt="demader" width="350" hight="150" /></p>
+
+## What I'm Doing
+- 🔭 Working on Blog Project
+- 🌱 Learning NextJs
 
 ![snake gif](https://github.com/demader/demader/blob/output/github-contribution-grid-snake.gif)
