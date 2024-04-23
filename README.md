@@ -13,6 +13,10 @@ I'm a third-year student passionate about Full-Stack Development , Artificial In
 
 <br/>
 
+  <p align="center">
+  <a href="https://drive.google.com/file/d/1j9ho7r2cCvXEi6SnEYtJpPrRM1_QynEa/view?usp=sharing"><img width="32px" title="Resume" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 <h3 align="center">"Code is the language of innovation, and developers are the translators, turning ideas into reality."</h3>
 <img align ="right" alt = "Coding" width = "500" src="https://64.media.tumblr.com/d2b59d444dd1b200821279ae09641449/be7eabd93f3453b0-73/s640x960/943acafbe4db28bc91566ef8a050bab78d01376c.gif">
 
