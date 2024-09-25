@@ -14,7 +14,7 @@ I'm a third-year student passionate about Full-Stack Development , Artificial In
 <br/>
 
   <p align="center">
-  <a href="https://drive.google.com/file/d/1j9ho7r2cCvXEi6SnEYtJpPrRM1_QynEa/view?usp=sharing"><img width="32px" title="Resume" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://drive.google.com/file/d/1PpcRs1Mtovoqp8s0ZVCP9Lo92XHaHfR3/view?usp=drive_link"><img width="32px" title="Resume" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <h3 align="center">"Code is the language of innovation, and developers are the translators, turning ideas into reality."</h3>
@@ -50,7 +50,7 @@ I'm a third-year student passionate about Full-Stack Development , Artificial In
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demader&&theme=dark&hide_border=false&stroke=f53b3b" alt="demader" width="350" hight="150" /></p>
 
 ## What I'm Doing
-- 🔭 Working on Blog Project
-- 🌱 Learning NextJs
+- 🔭 Searching Job 
+- 🌱 Learning AWS 
 
 ![snake gif](https://github.com/demader/demader/blob/output/github-contribution-grid-snake.gif)
