@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Govind</h1>
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/cartoon-man-wearing-glasses_23-2151136848.jpg?t=st=1713347661~exp=1713351261~hmac=e4c57af20fc91c76db4d8c868ea2f23b1906374a512ee9b9cd3f6c0eb636f308&w=996" alt="MasterHead" width="800">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="MasterHead" width="800">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ I'm a third-year student passionate about Full-Stack Development , Artificial In
 <br/>
 
   <p align="center">
-  <a href="https://drive.google.com/file/d/1PpcRs1Mtovoqp8s0ZVCP9Lo92XHaHfR3/view?usp=drive_link"><img width="32px" title="Resume" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://docs.google.com/document/d/1IwF4ial1P-Jupy4TD3pZT4IlCFNdhykm9dmuSBSSBpU/edit?usp=sharing"><img width="32px" title="Resume" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <h3 align="center">"Code is the language of innovation, and developers are the translators, turning ideas into reality."</h3>
