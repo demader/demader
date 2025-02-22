@@ -9,7 +9,7 @@
 
 
 
-I'm a third-year student passionate about Full-Stack Development , Artificial Intelligence, and  Machine Learning. I enjoy building projects step by step, finding happiness in each small achievement along the way. From planning to deployment, I'm involved in every stage of development. Now, I'm eager to apply my skills in a professional setting and continue learning. If you're interested in having me join your team, feel free to reach out!
+I'm a final-year student passionate about  Development , Artificial Intelligence, and  Machine Learning. I enjoy building projects step by step, finding happiness in each small achievement along the way. From planning to deployment, I'm involved in every stage of development. Now, I'm eager to apply my skills in a professional setting and continue learning. If you're interested in having me join your team, feel free to reach out!
 
 <br/>
 
