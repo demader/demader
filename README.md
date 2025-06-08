@@ -1,24 +1,32 @@
-<h1 align="center">Hi 👋, I'm Abhishek Govind</h1>
+<h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=ffffff&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Govind+😎" />
+</h1>
+
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="MasterHead" width="800">
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=45B8F7&random=false&width=435&lines=Full-Stack+Web+Developer;Machine+Learning+Engineer+;AI+%7C+ML+Enthusiast;React+Js+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=45B8F7&random=false&width=435&lines=Full-Stack+Software+Developer;Machine+Learning+Engineer+;AI+%7C+ML+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+I'm a Computer Science graduate with a strong passion for Full-Stack Development, Artificial Intelligence, and Machine Learning. I love turning ideas into reality — one step at a time — and find joy in every small win along the way.
 
-I'm a final-year student passionate about  Development , Artificial Intelligence, and  Machine Learning. I enjoy building projects step by step, finding happiness in each small achievement along the way. From planning to deployment, I'm involved in every stage of development. Now, I'm eager to apply my skills in a professional setting and continue learning. If you're interested in having me join your team, feel free to reach out!
+From planning to deployment, I take ownership of the entire development process, striving to build meaningful, user-friendly, and scalable solutions. Now, I'm ready to bring my skills into a professional environment, collaborate with talented teams, and keep growing every day.
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <p align="center">
-  <a href="https://docs.google.com/document/d/1IwF4ial1P-Jupy4TD3pZT4IlCFNdhykm9dmuSBSSBpU/edit?usp=sharing"><img width="32px" title="Resume" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://docs.google.com/document/d/1IwF4ial1P-Jupy4TD3pZT4IlCFNdhykm9dmuSBSSBpU/edit?usp=sharing"><img width="60px" title="Resume" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <h3 align="center">"Code is the language of innovation, and developers are the translators, turning ideas into reality."</h3>
-<img align ="right" alt = "Coding" width = "500" src="https://64.media.tumblr.com/d2b59d444dd1b200821279ae09641449/be7eabd93f3453b0-73/s640x960/943acafbe4db28bc91566ef8a050bab78d01376c.gif">
+<br/>
+<img align ="right" alt = "Coding" width = "600" src="https://64.media.tumblr.com/d2b59d444dd1b200821279ae09641449/be7eabd93f3453b0-73/s640x960/943acafbe4db28bc91566ef8a050bab78d01376c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demader&label=Profile%20views&color=0e75b6&style=flat" alt="demader" /> </p>
@@ -37,20 +45,156 @@ I'm a final-year student passionate about  Development , Artificial Intelligence
 <a href="https://www.leetcode.com/abhishek_27180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek_27180" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="left">Programming and Markup Languages:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/csharp-programming-language/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="cs" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
+  </a>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>
+  </a>
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/>
+  </a>
+ 
+</p>
 
-## My Stats:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Light.svg" alt="blender" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CLion-Light.svg" alt="Clion" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" alt="heroku" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" alt="vercel" width="40" height="40"/>
+  </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="aws" width="40" height="40"/>
+  </a>
+    <a href="https://docker-curriculum.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/>
+  </a>
+   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" alt="Clion" width="40" height="40"/>
+  </a>
   
+</p>
+
+
+<h3 align="left">Frameworks & Libraries:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/473742/pandas.svg" alt="pandas" width="40" height="40" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node" width="40" height="40"/>
+  </a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="left">Databases & ORMs:</h3>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/>
+  </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/3591786?s=200&v=4" alt="Sequelize" width="40" height="40" style="border-radius: 8px; background-color: white; padding: 4px;"/>
+  </a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/mongodb-js/mongoose/master/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="80" height="30" />
+  </a>
+</p>
+
+
+## My Stats:  
+<br/>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demader&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&stroke=f53b3b" alt="demader"  /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=demader&show_icons=true&locale=en&theme=dark&hide_border=false&stroke=f53b3b" alt="demader" width="350" hight="150" /></p>
+<br/>
 
 ## Activity On GitHub
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demader&&theme=dark&hide_border=false&stroke=f53b3b" alt="demader" width="350" hight="150" /></p>
 
 ## What I'm Doing
+
 - 🔭 Searching Job 
 - 🌱 Learning AWS 
 
-![snake gif](https://github.com/demader/demader/blob/output/github-contribution-grid-snake.gif)
+
