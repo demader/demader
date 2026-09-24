@@ -158,35 +158,71 @@ From planning to deployment, I take ownership of the entire development process,
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Databases & ORMs:</h3>
+<h3 align="left">Databases, ORMs & Messaging:</h3>
+
 <p align="left">
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
+
+  <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
   </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+  </a>
+
+  <!-- Redis -->
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
+  </a>
+
+  <!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40"/>
+  </a>
+
+  <!-- Neon -->
+  <a href="https://neon.tech/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/neon/000000" alt="Neon" width="40" height="40"/>
+  </a>
+
+  <!-- Prisma -->
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"/>
   </a>
+
+  <!-- Drizzle -->
+  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" width="40" height="40"/>
+  </a>
+
+  <!-- Sequelize -->
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/3591786?s=200&v=4" alt="Sequelize" width="40" height="40" style="border-radius: 8px; background-color: white; padding: 4px;"/>
+    <img src="https://skillicons.dev/icons?i=sequelize" alt="Sequelize" width="40" height="40"/>
   </a>
+
+  <!-- Mongoose -->
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mongodb-js/mongoose/master/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="80" height="30" />
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&amp;logo=mongoose&amp;logoColor=white" alt="Mongoose" width="80" height="40"/>
+  </a>
+
+  <!-- Apache Kafka -->
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" width="40" height="40"/>
+  </a>
+
+  <!-- RabbitMQ -->
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40"/>
   </a>
 </p>
 
 
-## My Stats:  
-<br/>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demader&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&stroke=f53b3b" alt="demader"  /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=demader&show_icons=true&locale=en&theme=dark&hide_border=false&stroke=f53b3b" alt="demader" width="350" hight="150" /></p>
-<br/>
 
 ## Activity On GitHub
 
@@ -195,6 +231,12 @@ From planning to deployment, I take ownership of the entire development process,
 ## What I'm Doing
 
 - 🔭 Searching Job 
-- 🌱 Learning AWS 
+- 🌱 Learning AWS
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,50:4F46E5,100:06B6D4&amp;height=110&amp;section=footer"
+  width="100%"
+  alt=""
+/>
 
 
